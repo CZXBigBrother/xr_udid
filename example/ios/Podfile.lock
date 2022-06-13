@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - SAMKeychain (1.5.3)
+  - xr_udid (0.0.1):
+    - Flutter
+    - SAMKeychain (~> 1.5.3)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - xr_udid (from `.symlinks/plugins/xr_udid/ios`)
+
+SPEC REPOS:
+  trunk:
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  xr_udid:
+    :path: ".symlinks/plugins/xr_udid/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  xr_udid: fc496fbc0623886fe68155305c405a1af9cd072b
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.2
